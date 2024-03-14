@@ -70,13 +70,13 @@ body {
     transform: translateY(0px) 
 }
 .card .content .details h2{
-    font-size: 1.25em;
-    font-weight: 600;
+    font-size: 1.15em;
+    font-weight: 550;
     color: #fff;
     line-height: 1.2em;
 }
 .card .content .details h2 span{
-    font-size: 0.80em;
+    font-size: 0.65em;
     font-weight: 550;
     opacity: 0.8;
 }
@@ -86,13 +86,13 @@ body {
     margin: 20px 0;
 }
 .card .content .details .data h3{
-    font-size: 0.9em;
+    font-size: 0.6em;
     color: #fff;
     line-height: 1.2em;
     font-weight: 550;
 }
 .card .content .details .data h3 span{
-    font-size: 0.85em;
+    font-size: 0.65em;
     font-weight: 400;
     opacity: 0.5;
 }
@@ -102,23 +102,23 @@ body {
     /*gap: 20px;*/
 }
 .card .content .details .actionBtn button{
-    padding: 10px 30px;
+    padding: 7px 20px;
     border-radius: 5px;
     border: none;
     outline: none;
-    font-size: 1.1em;
-    font-weight: 500;
+    font-size: 1em;
+    font-weight: 450;
     background: #00c3ff;
     color: #000;
     cursor: pointer;
 }
 .card .content .details .actionBtn button{
-    padding: 10px 20px;
+    padding: 7px 20px;
     border-radius: 5px;
     border: none;
     outline: none;
-    font-size: 1.1em;
-    font-weight: 500;
+    font-size: 1em;
+    font-weight: 450;
     background: #00c3ff;
     color: #000;
     cursor: pointer;
